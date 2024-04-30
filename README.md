@@ -16,4 +16,4 @@ Please be careful with the licenses of every repository and with the access sett
 
 
 
-<div dir="rtl"> Created by [George](https://github.com/g-rov), Lausanne 2024 </div>
+<div dir="rtl"> Created by <p><a href="[/url](https://github.com/g-rov)" title="George">foo</a></p>, Lausanne 2024 </div>
