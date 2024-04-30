@@ -11,9 +11,9 @@ This is a collection of codes and models of present and past LHTC members. You a
 Please be careful with the licenses of every repository and with the access settings (public/private). By default new repositories will be created private. Set them to public only if you know what you are doing and received permission to do so. 
 > "With great power, comes great responsibility!"
  
- 
- 
- 
- 
- 
+<br />
+<br />
+<br />
+<br />
+
 <div dir="rtl"> Created by <a href="https://github.com/g-rov" title="George">George</a>, Lausanne 2024 </div>
