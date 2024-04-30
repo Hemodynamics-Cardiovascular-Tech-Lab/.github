@@ -12,4 +12,8 @@ Please be careful with the licenses of every repository and with the access sett
 > "With great power, comes great responsibility!"
 
 
-<div dir="rtl"> Created by George, Lausanne 2024 </div>
+
+
+
+
+<div dir="rtl"> Created by [George](https://github.com/g-rov), Lausanne 2024 </div>
